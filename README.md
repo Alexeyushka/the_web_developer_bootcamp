@@ -32,8 +32,8 @@ Other:
 - Git
 - Unix
 
-Projects created during the course:
-- Static sites (HTML and CSS)
+##Projects created during the course:
+###Static sites (HTML and CSS)
 
 **Project_1**
 ![](images/Purrfect_Match_1.png)
