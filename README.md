@@ -1,5 +1,5 @@
-# the_web_developer_bootcamp
-This is a repository for uDemy course on web development (The Web Developer Bootcamp)
+# The Web Developer Bootcamp
+A repository for uDemy course on web development
 
 ## Covered topics:
 
@@ -32,34 +32,36 @@ This is a repository for uDemy course on web development (The Web Developer Boot
 - Git
 - Unix
 
-## Projects created during the course:
-### Responsive Websites (HTML and CSS)
+![](images/Certificate.jpg)
 
-#### Project_1
+# Projects created during the course:
+## Responsive Websites (HTML and CSS)
+
+### - Project_1
 ![](images/Purrfect_Match_1.png)
 ![](images/PM_1.jpg)
 ![](images/PM_2.jpg)
 
-#### Project_2
+### - Project_2
 ![](images/Patterns.png)
 
-### To do App (HTML, CSS, JavaScript, jQuery)
+## To do App (HTML, CSS, JavaScript, jQuery)
 ![](images/TodoApp.png)
 
-### Browser-based-game (HTML, CSS, JavaScript)
+## Browser-based-game (HTML, CSS, JavaScript)
 ![](images/Webapp.jpg)
 
-### Movie Search App via IMDB API
+## Movie Search App via IMDB API
 ![](images/Movie%20API%20App.png)
 
 ![](images/Movie%20API%20App_1.png)
 
-### RESTful Blog (NodeJS, ExpressJS, JavaScript)
+## RESTful Blog (NodeJS, ExpressJS, JavaScript)
 ![](images/Restful_Blog_1.png)
 ![](images/Restful_Blog_2.png)
 
-### Final project - web app with authorization/authentication
-##### Use the link to see it: https://thawing-eyrie-82394.herokuapp.com/
+## Final project - web app with authorization/authentication
+### Use the link to see it: https://thawing-eyrie-82394.herokuapp.com/
 ![](images/YelpCamp_1.png)
 ![](images/YelpCamp_2.png)
 ![](images/YelpCamp.png)
