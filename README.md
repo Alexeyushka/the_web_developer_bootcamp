@@ -1,9 +1,9 @@
 # the_web_developer_bootcamp
 This is a repository for uDemy course on web development (The Web Developer Bootcamp)
 
-Covered topics:
+## Covered topics:
 
-Front-end
+### Front-end
 - HTML5
 - CSS3
 - Bootstrap 4
@@ -12,7 +12,7 @@ Front-end
 - jQuery
 - DOM Manipulation
 
-Back-end:
+### Back-end:
 - HTTP
 - NodeJS
 - NPM
@@ -26,7 +26,7 @@ Back-end:
 - Authorization
 - PassportJS
 
-Other:
+### Other:
 - GoormIDE
 - Heroku
 - Git
@@ -43,19 +43,21 @@ Other:
 **Project_2**
 ![](images/Patterns.png)
 
-- To do App (HTML, CSS, JavaScript, jQuery)
+### To do App (HTML, CSS, JavaScript, jQuery)
 ![](images/TodoApp.png)
 
 - Browser-based-game (HTML, CSS, JavaScript)
-- Movie Search App via IMDB API
+
+
+### Movie Search App via IMDB API
 ![](images/Movie%20API%20App.png)
 ![](images/Movie%20API%20App_1.png)
 
-- RESTful Blog (NodeJS, ExpressJS, JavaScript)
+### RESTful Blog (NodeJS, ExpressJS, JavaScript)
 ![](images/Restful_Blog_1.png)
 ![](images/Restful_Blog_2.png)
 
-- Final project - web app with authorization/authentication. Can be found here: https://thawing-eyrie-82394.herokuapp.com/
-![](images/YelpCamp.png)
+### Final project - web app with authorization/authentication. Can be found here: https://thawing-eyrie-82394.herokuapp.com/
 ![](images/YelpCamp_1.png)
+![](images/YelpCamp.png)
 ![](images/YelpCamp_2.png)
