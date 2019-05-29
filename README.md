@@ -59,5 +59,6 @@ This is a repository for uDemy course on web development (The Web Developer Boot
 
 ### Final project - web app with authorization/authentication. Can be found here: https://thawing-eyrie-82394.herokuapp.com/
 ![](images/YelpCamp_1.png)
-![](images/YelpCamp.png)
 ![](images/YelpCamp_2.png)
+![](images/YelpCamp.png)
+
