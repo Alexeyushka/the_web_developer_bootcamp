@@ -11,6 +11,7 @@ Front-end
 - JavaScript
 - jQuery
 - DOM Manipulation
+
 Back-end:
 - HTTP
 - NodeJS
@@ -24,6 +25,7 @@ Back-end:
 - Authentication
 - Authorization
 - PassportJS
+
 Other:
 - GoormIDE
 - Heroku
