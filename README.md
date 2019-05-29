@@ -36,6 +36,6 @@ Projects created during the course:
 - Static sites (HTML and CSS)
 - To do App (HTML, CSS, JavaScript, jQuery)
 - Browser-based-game (HTML, CSS, JavaScript)
+- Movie Search App via IMDB API
 - RESTful Blog (NodeJS, ExpressJS, JavaScript)
-- Final project - web app with authorization/authentication. 
-Can be found here: https://thawing-eyrie-82394.herokuapp.com/
+- Final project - web app with authorization/authentication. Can be found here: https://thawing-eyrie-82394.herokuapp.com/
