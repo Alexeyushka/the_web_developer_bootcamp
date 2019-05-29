@@ -33,21 +33,21 @@ This is a repository for uDemy course on web development (The Web Developer Boot
 - Unix
 
 ## Projects created during the course:
-### Static sites (HTML and CSS)
+### Responsive Websites (HTML and CSS)
 
-**Project_1**
+#### Project_1
 ![](images/Purrfect_Match_1.png)
 ![](images/Purrfect_Match_2.png)
 ![](images/Purrfect_Match_3.png)
 
-**Project_2**
+#### Project_2
 ![](images/Patterns.png)
 
 ### To do App (HTML, CSS, JavaScript, jQuery)
 ![](images/TodoApp.png)
 
-- Browser-based-game (HTML, CSS, JavaScript)
-
+### Browser-based-game (HTML, CSS, JavaScript)
+![](images/WebApp.jpg)
 
 ### Movie Search App via IMDB API
 ![](images/Movie%20API%20App.png)
@@ -58,7 +58,8 @@ This is a repository for uDemy course on web development (The Web Developer Boot
 ![](images/Restful_Blog_1.png)
 ![](images/Restful_Blog_2.png)
 
-### Final project - web app with authorization/authentication. Can be found here: https://thawing-eyrie-82394.herokuapp.com/
+### Final project - web app with authorization/authentication
+##### Use the link to see it: https://thawing-eyrie-82394.herokuapp.com/
 ![](images/YelpCamp_1.png)
 ![](images/YelpCamp_2.png)
 ![](images/YelpCamp.png)
