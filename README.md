@@ -37,8 +37,8 @@ This is a repository for uDemy course on web development (The Web Developer Boot
 
 #### Project_1
 ![](images/Purrfect_Match_1.png)
-![](images/Purrfect_Match_2.png)
-![](images/Purrfect_Match_3.png)
+![](images/PM_1.jpg)
+![](images/PM_2.jpg)
 
 #### Project_2
 ![](images/Patterns.png)
@@ -47,7 +47,7 @@ This is a repository for uDemy course on web development (The Web Developer Boot
 ![](images/TodoApp.png)
 
 ### Browser-based-game (HTML, CSS, JavaScript)
-![](images/WebApp.jpg)
+![](images/Webapp.jpg)
 
 ### Movie Search App via IMDB API
 ![](images/Movie%20API%20App.png)
