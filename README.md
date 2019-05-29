@@ -51,6 +51,7 @@ This is a repository for uDemy course on web development (The Web Developer Boot
 
 ### Movie Search App via IMDB API
 ![](images/Movie%20API%20App.png)
+
 ![](images/Movie%20API%20App_1.png)
 
 ### RESTful Blog (NodeJS, ExpressJS, JavaScript)
