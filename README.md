@@ -49,7 +49,9 @@ A repository for uDemy course on web development
 ### Project_2
 ![](images/Patterns.png)
 
-
+### Project_3
+![](images/Candy_1.png)
+![](images/Candy_2.png)
 
 ## To do App (HTML, CSS, JavaScript, jQuery)
 ![](images/TodoApp.png)
